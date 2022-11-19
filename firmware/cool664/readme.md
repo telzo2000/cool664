@@ -1,6 +1,6 @@
 # cool664
 
-![cool664](imgur.com image replace me!)
+![cool664](img/img00001.jpg)
 
 *A short description of the keyboard/project*
 
