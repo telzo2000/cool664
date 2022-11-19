@@ -10,3 +10,7 @@ and splite keyboard.
 ![](img/img00001.jpg)
 
 ![](img/img00002.jpg)
+
+#Build guide
+
+https://github.com/telzo2000/cool664/blob/main/build_guide_for_cool664.md
