@@ -195,6 +195,11 @@ firawareがありますので、ご自由にお使いください。
 <br>
 
 
+参考<br>
+
+https://github.com/telzo2000/Hello_keyboard/blob/main/readme_about_firmware.md
+
+
 ## 10 組み立て
 スイッチプレートの向きに注意して、５箇所にM2ネジ６mmを上面から挿しこみ、反対側からM2スペーサー８mmで固定してください。
 <br>
